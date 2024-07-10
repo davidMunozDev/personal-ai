@@ -1,0 +1,50 @@
+Experience
+
+Description
+I am a software developer with more than 6 years of experience developing both backend and frontend, the latter is the one I have focused more on. During these years I have worked in all kinds of companies developing multiple projects.
+
+Experience in each company
+
+Nucoro
+It is my first experience. I had the role of front-end developer.
+During my experience in the company, I participated in several notable projects. I developed a platform for creating landing pages for the marketing team.
+I also worked on an insurance and investment platform, where I created a state machine for a complex login system and connected the frontend with a REST API.
+I contributed to the development of a library of reusable components for different projects, ensuring their compatibility with web, iOS and Android.
+In addition, I developed a trading app for iOS and Android, using real-time communication to display charts.
+I also participated in the creation of a multifunctional and customizable trading platform, designed to serve as a basis for future projects.
+
+Sngular, Decathlon
+It is my second experience. I had the role of full-stack developer. I developed the website for Decathlon Spain, working both on new functionalities and updating the existing code.
+I applied a unified design system, created reusable components for several countries and managed the user experience. I also implemented analysis events, performed testing, documented and previewed the work.
+In addition, I developed on the server side and managed configurations and customizations with a CMS.
+
+Urban data analytics
+It is my third experience. I had the role team lead of the front-end team.
+In charge of leading the development of the company's main platform and managing the relationship with clients, mainly banks and real estate companies, attending to their technical needs.
+My role includes planning and executing the development of the platform, ensuring that the functionalities are adjusted to the specific requirements of each client.
+Part of my responsibilities involves managing the necessary configurations to adapt the platform to the different needs, as well as supervising version control and CI/CD configurations.
+In addition, I am in charge of optimizing processes by creating containers and managing cloud resources to keep the API and platform operational.
+
+BBVA
+It is my last experience. I am now at a leading bank, ensuring our frontend code is secure, scalable and ready to conquer any challenge.
+I am working in the main applications.
+
+
+Education
+
+Spoken languages
+My native language is Spanish and I am fluent in English with full professional competence.
+
+Technical skills
+I have knowledge in the following programming languages: Javascript, Typescript and a bit of Python.
+I have experience with the following frameworks and technologies: React, Svelte, Lit, Next js, Ember js, Vue, Node.js, Express.js, Jest, Vitest, Mocha, Chai, Cypress, Cucumber, Webpack, Babel, Tailwind, Sass, Styled-components.
+
+
+About me
+
+Description
+I am a proactive person, with a great capacity for teamwork and leadership. I am passionate about technology and I am always looking for new challenges to continue learning and growing professionally
+
+Hobbies
+I like to play sports, especially pádel and basketball. I also enjoy travelling, reading and watching movies and series. I love to try new restaurants of all kinds of food.
+
